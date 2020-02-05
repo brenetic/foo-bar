@@ -1,0 +1,15 @@
+{
+  "_id": "page.something-2",
+  "_type": "page.singlequestion",
+  "actionType": "continue",
+  "components": [
+    {
+      "_id": "page.something-2--number.auto_name__2",
+      "_type": "number",
+      "hint": "it's a number",
+      "label": "a number",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "something-2"
+}
