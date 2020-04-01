@@ -8,7 +8,8 @@
       "_type": "number",
       "hint": "it's a number",
       "label": "a number",
-      "name": "auto_name__2"
+      "name": "auto_name__2",
+      "repeatable": true
     }
   ],
   "url": "something-2"

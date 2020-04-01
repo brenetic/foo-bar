@@ -14,8 +14,8 @@
   "lede": "This is your start page first paragraph. You can only have one paragraph here.",
   "steps": [
     "page.something-2",
-    "page.confirm",
-    "page.something-3"
+    "page.something-4",
+    "page.confirm"
   ],
   "url": "/"
 }
