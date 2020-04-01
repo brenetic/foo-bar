@@ -15,6 +15,7 @@
   "steps": [
     "page.something-2",
     "page.something-4",
+    "page.summary",
     "page.confirm"
   ],
   "url": "/"
