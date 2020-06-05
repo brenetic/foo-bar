@@ -7,7 +7,7 @@
       "_id": "page.something-2--number.auto_name__2",
       "_type": "number",
       "hint": "it's a number",
-      "label": "a number",
+      "label": "a number number number",
       "name": "auto_name__2",
       "repeatable": true
     }
